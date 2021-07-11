@@ -1,7 +1,7 @@
 # HackingWithSwift-Project04
 <b>Easy Browser</b>
 
-<p>Swift + SwiftUI Features Explored:<p>
+<p>Swift + UIKit Features Explored:<p>
 <ul>
   <li>loadView() method</li>
   <li>WKWebView</li>
